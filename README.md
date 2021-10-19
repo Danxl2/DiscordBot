@@ -1,2 +1,8 @@
-# DiscordBot
-Bot Multifuncional. Para los que quieran aprender
+# Discord Bot Multifuncional
+
+npm i discord.js
+
+# .env
+```js
+TOKEN=TuToKEn
+```
