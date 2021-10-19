@@ -1,5 +1,5 @@
 module.exports = {
     config: {
-        prefix: '?'
+        prefix: '?' // el prefix de tu bot
     }
 }
